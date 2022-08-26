@@ -1,0 +1,17 @@
+{
+  "name": "tbsgc-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RvFetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "json-query": "~2.2.2",
+    "lodash": "4.17.21"
+  }
+}

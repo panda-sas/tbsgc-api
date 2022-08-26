@@ -1,0 +1,81 @@
+[
+  {
+    "identifier": "4PM4",
+    "data": {
+      "rcsb_id": "4PM4",
+      "audit_author": [
+        {
+          "name": "Arbing, M.A."
+        },
+        {
+          "name": "Chan, S."
+        },
+        {
+          "name": "Tran, N."
+        },
+        {
+          "name": "Kuo, E."
+        },
+        {
+          "name": "Lu, J."
+        },
+        {
+          "name": "Harris, L.R."
+        },
+        {
+          "name": "Zhou, T.T."
+        },
+        {
+          "name": "Eisenberg, D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": null,
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "4PM4"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Arbing, M.A.",
+          "Chan, S.",
+          "Tran, N.",
+          "Kuo, E.",
+          "Lu, J.",
+          "Harris, L.R.",
+          "Zhou, T.T.",
+          "Eisenberg, D."
+        ],
+        "title": "Structure of a putative periplasmic iron siderophore binding protein (Rv0265c) from Mycobacterium tuberculosis H37Rv",
+        "year": null
+      },
+      "struct": {
+        "title": "Structure of a putative periplasmic iron siderophore binding protein (Rv0265c) from Mycobacterium tuberculosis H37Rv"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis H37Rv",
+              "rcsb_gene_name": [
+                {
+                  "value": "Rv0265c"
+                },
+                {
+                  "value": "RVBD_0265c"
+                },
+                {
+                  "value": "Rv0265c"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  }
+]

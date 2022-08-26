@@ -1,0 +1,195 @@
+[
+  {
+    "identifier": "3LAP",
+    "data": {
+      "rcsb_id": "3LAP",
+      "audit_author": [
+        {
+          "name": "Cherney, L.T."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "Garen, C.R."
+        },
+        {
+          "name": "James, M.N.G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 20382162
+        },
+        "rcsb_pubmed_doi": "10.1016/j.jmb.2010.03.065"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "3LAP"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.jmb.2010.03.065",
+        "rcsb_authors": [
+          "Cherney, L.T.",
+          "Cherney, M.M.",
+          "Garen, C.R.",
+          "James, M.N."
+        ],
+        "title": "crystal structure of the intermediate complex of the arginine repressor from Mycobacterium tuberculosis bound with its DNA operator reveals detailed mechanism of arginine repression.",
+        "year": 2010
+      },
+      "struct": {
+        "title": "The Structure of the Intermediate Complex of the Arginine Repressor from Mycobacterium tuberculosis Bound to its DNA Operator and L-canavanine."
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis H37Rv",
+              "rcsb_gene_name": [
+                {
+                  "value": "ahrC"
+                },
+                {
+                  "value": "argR"
+                },
+                {
+                  "value": "MT1695"
+                },
+                {
+                  "value": "MTCY06H11.22"
+                },
+                {
+                  "value": "Rv1657"
+                },
+                {
+                  "value": "argR"
+                },
+                {
+                  "value": "ahrC"
+                },
+                {
+                  "value": "Rv1657"
+                },
+                {
+                  "value": "MTCY06H11.22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rcsb_entity_source_organism": null
+        },
+        {
+          "rcsb_entity_source_organism": null
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "3IT6",
+    "data": {
+      "rcsb_id": "3IT6",
+      "audit_author": [
+        {
+          "name": "Sankaranarayanan, R."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "Garen, C."
+        },
+        {
+          "name": "Garen, G."
+        },
+        {
+          "name": "Yuan, M."
+        },
+        {
+          "name": "James, M.N."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 20184895
+        },
+        "rcsb_pubmed_doi": "10.1016/j.jmb.2010.02.018"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "3IT6"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.jmb.2010.02.018",
+        "rcsb_authors": [
+          "Sankaranarayanan, R.",
+          "Cherney, M.M.",
+          "Garen, C.",
+          "Garen, G.",
+          "Niu, C.",
+          "Yuan, M.",
+          "James, M.N."
+        ],
+        "title": "The molecular structure of ornithine acetyltransferase from Mycobacterium tuberculosis bound to ornithine, a competitive inhibitor.",
+        "year": 2010
+      },
+      "struct": {
+        "title": "The Crystal Structure of Ornithine Acetyltransferase complexed with Ornithine from Mycobacterium tuberculosis (Rv1653) at 2.4 A"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "argJ"
+                },
+                {
+                  "value": "MT1691"
+                },
+                {
+                  "value": "MTCY06H11.18"
+                },
+                {
+                  "value": "Rv1653"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "argJ"
+                },
+                {
+                  "value": "Rv1653"
+                },
+                {
+                  "value": "MT1691"
+                },
+                {
+                  "value": "MTCY06H11.18"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "identifier": "3AAX",
+    "data": {
+      "rcsb_id": "3AAX",
+      "audit_author": [
+        {
+          "name": "Sankaranarayanan, R."
+        },
+        {
+          "name": "Witholt, S.J."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "Garen, C.R."
+        },
+        {
+          "name": "Cherney, L.T."
+        },
+        {
+          "name": "James, M.N.G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": null,
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "3AAX"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Sankaranarayanan, R.",
+          "Witholt, S.J.",
+          "Cherney, M.M.",
+          "Garen, C.R.",
+          "Cherney, L.T.",
+          "James, M.N.G."
+        ],
+        "title": "The crystal structure of probable thiosulfate sulfurtransferase CysA3 (Rv3117) from Mycobacterium tuberculosis",
+        "year": null
+      },
+      "struct": {
+        "title": "Crystal structure of probable thiosulfate sulfurtransferase cysa3 (RV3117) from Mycobacterium tuberculosis: monoclinic FORM"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "CysA3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  }
+]

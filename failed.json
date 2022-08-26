@@ -1,0 +1,5103 @@
+[
+  {
+    "identifier": "2FGG",
+    "data": {
+      "rcsb_id": "2FGG",
+      "audit_author": [
+        {
+          "name": "Yu, M."
+        },
+        {
+          "name": "Bursey, E.H."
+        },
+        {
+          "name": "Radhakannan, T."
+        },
+        {
+          "name": "Segelke, B.W."
+        },
+        {
+          "name": "Lekin, T."
+        },
+        {
+          "name": "Toppani, D."
+        },
+        {
+          "name": "Kim, C.Y."
+        },
+        {
+          "name": "Kaviratne, T."
+        },
+        {
+          "name": "Woodruff, T."
+        },
+        {
+          "name": "Terwilliger, T.C."
+        },
+        {
+          "name": "Hung, L.W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": null,
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2FGG"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Yu, M.",
+          "Bursey, E.H.",
+          "Radhakannan, T.",
+          "Segelke, B.W.",
+          "Lekin, T.",
+          "Toppani, D.",
+          "Kim, C.Y.",
+          "Kaviratne, T.",
+          "Woodruff, T.",
+          "Terwilliger, T.C.",
+          "Hung, L.W."
+        ],
+        "title": "Crystal Structure of Rv2632c",
+        "year": null
+      },
+      "struct": {
+        "title": "Crystal Structure of Rv2632c"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "3AAX",
+    "data": {
+      "rcsb_id": "3AAX",
+      "audit_author": [
+        {
+          "name": "Sankaranarayanan, R."
+        },
+        {
+          "name": "Witholt, S.J."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "Garen, C.R."
+        },
+        {
+          "name": "Cherney, L.T."
+        },
+        {
+          "name": "James, M.N.G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": null,
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "3AAX"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Sankaranarayanan, R.",
+          "Witholt, S.J.",
+          "Cherney, M.M.",
+          "Garen, C.R.",
+          "Cherney, L.T.",
+          "James, M.N.G."
+        ],
+        "title": "The crystal structure of probable thiosulfate sulfurtransferase CysA3 (Rv3117) from Mycobacterium tuberculosis",
+        "year": null
+      },
+      "struct": {
+        "title": "Crystal structure of probable thiosulfate sulfurtransferase cysa3 (RV3117) from Mycobacterium tuberculosis: monoclinic FORM"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "CysA3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6DRQ",
+    "data": {
+      "rcsb_id": "6DRQ",
+      "audit_author": [
+        {
+          "name": "Hughes, R.C."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30604681
+        },
+        "rcsb_pubmed_doi": "10.7554/eLife.40063"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6DRQ"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.7554/eLife.40063",
+        "rcsb_authors": [
+          "Miller, B.K.",
+          "Hughes, R.",
+          "Ligon, L.S.",
+          "Rigel, N.W.",
+          "Malik, S.",
+          "Anjuwon-Foster, B.R.",
+          "Sacchettini, J.C.",
+          "Braunstein, M."
+        ],
+        "title": "Mycobacterium tuberculosisSatS is a chaperone for the SecA2 protein export pathway.",
+        "year": 2019
+      },
+      "struct": {
+        "title": "The crystal structure of SatS c-terminal domain in complex with bromine"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis H37Rv",
+              "rcsb_gene_name": [
+                {
+                  "value": "LH57_18085"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6DNM",
+    "data": {
+      "rcsb_id": "6DNM",
+      "audit_author": [
+        {
+          "name": "Hughes, R.C."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30604681
+        },
+        "rcsb_pubmed_doi": "10.7554/eLife.40063"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6DNM"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.7554/eLife.40063",
+        "rcsb_authors": [
+          "Miller, B.K.",
+          "Hughes, R.",
+          "Ligon, L.S.",
+          "Rigel, N.W.",
+          "Malik, S.",
+          "Anjuwon-Foster, B.R.",
+          "Sacchettini, J.C.",
+          "Braunstein, M."
+        ],
+        "title": "Mycobacterium tuberculosisSatS is a chaperone for the SecA2 protein export pathway.",
+        "year": 2019
+      },
+      "struct": {
+        "title": "The crystal structure of SatS c-terminal domain"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis H37Rv",
+              "rcsb_gene_name": [
+                {
+                  "value": "LH57_18085"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2G2D",
+    "data": {
+      "rcsb_id": "2G2D",
+      "audit_author": [
+        {
+          "name": "Moon, J.H."
+        },
+        {
+          "name": "Kaviratne, A."
+        },
+        {
+          "name": "Yu, M."
+        },
+        {
+          "name": "Bursey, E.H."
+        },
+        {
+          "name": "Hung, L.-W."
+        },
+        {
+          "name": "Lekin, T.P."
+        },
+        {
+          "name": "Segelke, B.W."
+        },
+        {
+          "name": "Terwilliger, T.C."
+        },
+        {
+          "name": "Kim, C.-Y."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": null,
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2G2D"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Moon, J.H.",
+          "Kaviratne, A.",
+          "Yu, M.",
+          "Bursey, E.H.",
+          "Hung, L.-W.",
+          "Lekin, T.P.",
+          "Segelke, B.W.",
+          "Terwilliger, T.C.",
+          "Kim, C.-Y."
+        ],
+        "title": "Crystal structure of a putative pduO-type ATP:cobalamin adenosyltransferase from Mycobacterium tuberculosis.",
+        "year": null
+      },
+      "struct": {
+        "title": "Crystal structure of a putative pduO-type ATP:cobalamin adenosyltransferase from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2B70",
+    "data": {
+      "rcsb_id": "2B70",
+      "audit_author": [
+        {
+          "name": "Collins, M.D."
+        },
+        {
+          "name": "Quillin, M.L."
+        },
+        {
+          "name": "Matthews, B.W."
+        },
+        {
+          "name": "Gruner, S.M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 16269539
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0508224102"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2B70"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/pnas.0508224102",
+        "rcsb_authors": [
+          "Collins, M.D.",
+          "Hummer, G.",
+          "Quillin, M.L.",
+          "Matthews, B.W.",
+          "Gruner, S.M."
+        ],
+        "title": "Cooperative water filling of a nonpolar protein cavity observed by high-pressure crystallography and simulation",
+        "year": 2005
+      },
+      "struct": {
+        "title": "T4 Lysozyme mutant L99A at ambient pressure"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Escherichia virus T4",
+              "rcsb_gene_name": [
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "E"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1YWF",
+    "data": {
+      "rcsb_id": "1YWF",
+      "audit_author": [
+        {
+          "name": "Grundner, C."
+        },
+        {
+          "name": "Ng, H.L."
+        },
+        {
+          "name": "Alber, T."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 16271885
+        },
+        "rcsb_pubmed_doi": "10.1016/j.str.2005.07.017"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1YWF"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.str.2005.07.017",
+        "rcsb_authors": [
+          "Grundner, C.",
+          "Ng, H.L.",
+          "Alber, T."
+        ],
+        "title": "Mycobacterium tuberculosis Protein Tyrosine Phosphatase PtpB Structure Reveals a Diverged Fold and a Buried Active Site.",
+        "year": 2005
+      },
+      "struct": {
+        "title": "Crystal Structure of Mycobacterium Tuberculosis Protein Tyrosine Phosphatase PtpB"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1UE7",
+    "data": {
+      "rcsb_id": "1UE7",
+      "audit_author": [
+        {
+          "name": "Saikrishnan, K."
+        },
+        {
+          "name": "Jeyakanthan, J."
+        },
+        {
+          "name": "Venkatesh, J."
+        },
+        {
+          "name": "Acharya, N."
+        },
+        {
+          "name": "Sekar, K."
+        },
+        {
+          "name": "Varshney, U."
+        },
+        {
+          "name": "Vijayan, M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12888346
+        },
+        "rcsb_pubmed_doi": "10.1016/s0022-2836(03)00729-0"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1UE7"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/S0022-2836(03)00729-0",
+        "rcsb_authors": [
+          "Saikrishnan, K.",
+          "Jeyakanthan, J.",
+          "Venkatesh, J.",
+          "Acharya, N.",
+          "Sekar, K.",
+          "Varshney, U.",
+          "Vijayan, M."
+        ],
+        "title": "Structure of Mycobacterium tuberculosis single-stranded DNA-binding protein. Variability in quaternary structure and its implications",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Crystal structure of the single-stranded dna-binding protein from mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1UE6",
+    "data": {
+      "rcsb_id": "1UE6",
+      "audit_author": [
+        {
+          "name": "Saikrishnan, K."
+        },
+        {
+          "name": "Jeyakanthan, J."
+        },
+        {
+          "name": "Venkatesh, J."
+        },
+        {
+          "name": "Acharya, N."
+        },
+        {
+          "name": "Sekar, K."
+        },
+        {
+          "name": "Varshney, U."
+        },
+        {
+          "name": "Vijayan, M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12888346
+        },
+        "rcsb_pubmed_doi": "10.1016/s0022-2836(03)00729-0"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1UE6"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/S0022-2836(03)00729-0",
+        "rcsb_authors": [
+          "Saikrishnan, K.",
+          "Jeyakanthan, J.",
+          "Venkatesh, J.",
+          "Acharya, N.",
+          "Sekar, K.",
+          "Varshney, U.",
+          "Vijayan, M."
+        ],
+        "title": "Structure of Mycobacterium tuberculosis single-stranded DNA-binding protein. Variability in quaternary structure and its implications",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Crystal structure of the single-stranded dna-binding protein from mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1UE5",
+    "data": {
+      "rcsb_id": "1UE5",
+      "audit_author": [
+        {
+          "name": "Saikrishnan, K."
+        },
+        {
+          "name": "Jeyakanthan, J."
+        },
+        {
+          "name": "Venkatesh, J."
+        },
+        {
+          "name": "Acharya, N."
+        },
+        {
+          "name": "Sekar, K."
+        },
+        {
+          "name": "Varshney, U."
+        },
+        {
+          "name": "Vijayan, M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12888346
+        },
+        "rcsb_pubmed_doi": "10.1016/s0022-2836(03)00729-0"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1UE5"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/S0022-2836(03)00729-0",
+        "rcsb_authors": [
+          "Saikrishnan, K.",
+          "Jeyakanthan, J.",
+          "Venkatesh, J.",
+          "Acharya, N.",
+          "Sekar, K.",
+          "Varshney, U.",
+          "Vijayan, M."
+        ],
+        "title": "Structure of Mycobacterium tuberculosis single-stranded DNA-binding protein. Variability in quaternary structure and its implications",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Crystal structure of the single-stranded dna-binding protein from mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1UE1",
+    "data": {
+      "rcsb_id": "1UE1",
+      "audit_author": [
+        {
+          "name": "Saikrishnan, K."
+        },
+        {
+          "name": "Jeyakanthan, J."
+        },
+        {
+          "name": "Venkatesh, J."
+        },
+        {
+          "name": "Acharya, N."
+        },
+        {
+          "name": "Sekar, K."
+        },
+        {
+          "name": "Varshney, U."
+        },
+        {
+          "name": "Vijayan, M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12888346
+        },
+        "rcsb_pubmed_doi": "10.1016/s0022-2836(03)00729-0"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1UE1"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/S0022-2836(03)00729-0",
+        "rcsb_authors": [
+          "Saikrishnan, K.",
+          "Jeyakanthan, J.",
+          "Venkatesh, J.",
+          "Acharya, N.",
+          "Sekar, K.",
+          "Varshney, U.",
+          "Vijayan, M."
+        ],
+        "title": "Structure of Mycobacterium tuberculosis single-stranded DNA-binding protein. Variability in quaternary structure and its implications",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Crystal structure of the single-stranded dna-binding protein from mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1P3H",
+    "data": {
+      "rcsb_id": "1P3H",
+      "audit_author": [
+        {
+          "name": "Roberts, M.M."
+        },
+        {
+          "name": "Coker, A.R."
+        },
+        {
+          "name": "Fossati, G."
+        },
+        {
+          "name": "Mascagni, P."
+        },
+        {
+          "name": "Coates, A.R.M."
+        },
+        {
+          "name": "Wood, S.P."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12837792
+        },
+        "rcsb_pubmed_doi": "10.1128/jb.185.14.4172-4185.2003"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1P3H"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1128/JB.185.14.4172-4185.2003",
+        "rcsb_authors": [
+          "Roberts, M.M.",
+          "Coker, A.R.",
+          "Fossati, G.",
+          "Mascagni, P.",
+          "Coates, A.R.M.",
+          "Wood, S.P."
+        ],
+        "title": "Mycobacterium tuberculosis chaperonin 10 heptamers self-associate through their biologically active loops",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Crystal Structure of the Mycobacterium tuberculosis chaperonin 10 tetradecamer"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "GROS OR GROES OR MOPB OR CPN10 OR RV3418C OR MT3527 OR MTCY78.11"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NYO",
+    "data": {
+      "rcsb_id": "1NYO",
+      "audit_author": [
+        {
+          "name": "Bloemink, M.J."
+        },
+        {
+          "name": "Dentten, E."
+        },
+        {
+          "name": "Hewinson, R.G."
+        },
+        {
+          "name": "Williamson, R.A."
+        },
+        {
+          "name": "Carr, M.D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12917404
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M307235200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NYO"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M307235200",
+        "rcsb_authors": [
+          "Carr, M.D.",
+          "Bloemink, M.J.",
+          "Dentten, E.",
+          "Whelan, A.O.",
+          "Gordon, S.V.",
+          "Kelly, G.",
+          "Frenkiel, T.A.",
+          "Hewinson, R.G.",
+          "Williamson, R.A."
+        ],
+        "title": "Solution structure of the Mycobacterium tuberculosis complex protein MPB70: from tuberculosis pathogenesis to inherited human corneal desease",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Solution structure of the antigenic TB protein MPT70/MPB70"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "mpt70/mpb70"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1N4G",
+    "data": {
+      "rcsb_id": "1N4G",
+      "audit_author": [
+        {
+          "name": "Leys, D."
+        },
+        {
+          "name": "Mowat, C.G."
+        },
+        {
+          "name": "McLean, K.J."
+        },
+        {
+          "name": "Richmond, A."
+        },
+        {
+          "name": "Chapman, S.K."
+        },
+        {
+          "name": "Walkinshaw, M.D."
+        },
+        {
+          "name": "Munro, A.W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12435731
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M209928200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1N4G"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M209928200",
+        "rcsb_authors": [
+          "Leys, D.",
+          "Mowat, C.G.",
+          "McLean, K.J.",
+          "Richmond, A.",
+          "Chapman, S.K.",
+          "Walkinshaw, M.D.",
+          "Munro, A.W."
+        ],
+        "title": "Atomic structure of Mycobacterium tuberculosis CYP121 to 1.06 A reveals novel features of cytochrome P450.",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Structure of CYP121, a Mycobacterial P450, in Complex with Iodopyrazole"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "CYP121 OR RV2276 OR MT2336 OR MTCY339.34C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1MO6",
+    "data": {
+      "rcsb_id": "1MO6",
+      "audit_author": [
+        {
+          "name": "Datta, S."
+        },
+        {
+          "name": "Ganesh, N."
+        },
+        {
+          "name": "Chandra, N.R."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12557189
+        },
+        "rcsb_pubmed_doi": "10.1002/prot.10315"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1MO6"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1002/prot.10315",
+        "rcsb_authors": [
+          "Datta, S.",
+          "Ganesh, N.",
+          "Chandra, N.R.",
+          "Muniyappa, K.",
+          "Vijayan, M."
+        ],
+        "title": "Structural studies on MtRecA-nucleotide complexes: Insights into DNA and nucleotide binding and the structural signature of NTP recognition",
+        "year": 2003
+      },
+      "struct": {
+        "title": "RECA-DATP-MG COMPLEX"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            },
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1EYV",
+    "data": {
+      "rcsb_id": "1EYV",
+      "audit_author": [
+        {
+          "name": "Gopal, B."
+        },
+        {
+          "name": "Haire, L.F."
+        },
+        {
+          "name": "Cox, R.A."
+        },
+        {
+          "name": "Colston, M.J."
+        },
+        {
+          "name": "Major, S."
+        },
+        {
+          "name": "Brannigan, J.A."
+        },
+        {
+          "name": "Smerdon, S.J."
+        },
+        {
+          "name": "Dodson, G.G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 10881194
+        },
+        "rcsb_pubmed_doi": "10.1038/75876"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1EYV"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1038/75876",
+        "rcsb_authors": [
+          "Gopal, B.",
+          "Haire, L.F.",
+          "Cox, R.A.",
+          "Colston, M.J.",
+          "Major, S.",
+          "Brannigan, J.A.",
+          "Smerdon, S.J.",
+          "Dodson, G."
+        ],
+        "title": "The crystal structure of NusB from Mycobacterium tuberculosis.",
+        "year": 2000
+      },
+      "struct": {
+        "title": "THE CRYSTAL STRUCTURE OF NUSB FROM MYCOBACTERIUM TUBERCULOSIS"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1DQZ",
+    "data": {
+      "rcsb_id": "1DQZ",
+      "audit_author": [
+        {
+          "name": "Ronning, D.R."
+        },
+        {
+          "name": "Klabunde, T."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 10655617
+        },
+        "rcsb_pubmed_doi": "10.1038/72413"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1DQZ"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1038/72413",
+        "rcsb_authors": [
+          "Ronning, D.R.",
+          "Klabunde, T.",
+          "Besra, G.S.",
+          "Vissa, V.D.",
+          "Belisle, J.T.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal structure of the secreted form of antigen 85C reveals potential targets for mycobacterial drugs and vaccines.",
+        "year": 2000
+      },
+      "struct": {
+        "title": "CRYSTAL STRUCTURE OF ANTIGEN 85C FROM MYCOBACTERIUM TUBERCULOSIS"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1DQY",
+    "data": {
+      "rcsb_id": "1DQY",
+      "audit_author": [
+        {
+          "name": "Ronning, D.R."
+        },
+        {
+          "name": "Klabunde, T."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 10655617
+        },
+        "rcsb_pubmed_doi": "10.1038/72413"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1DQY"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1038/72413",
+        "rcsb_authors": [
+          "Ronning, D.R.",
+          "Klabunde, T.",
+          "Besra, G.S.",
+          "Vissa, V.D.",
+          "Belisle, J.T.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal structure of the secreted form of antigen 85C reveals potential targets for mycobacterial drugs and vaccines.",
+        "year": 2000
+      },
+      "struct": {
+        "title": "CRYSTAL STRUCTURE OF ANTIGEN 85C FROM MYCOBACTERIUM TUBERCULOSIS WITH DIETHYL PHOSPHATE INHIBITOR"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1ZID",
+    "data": {
+      "rcsb_id": "1ZID",
+      "audit_author": [
+        {
+          "name": "Rozwarski, D.A."
+        },
+        {
+          "name": "Jacobs Jr., W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 9417034
+        },
+        "rcsb_pubmed_doi": "10.1126/science.279.5347.98"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1ZID"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1126/science.279.5347.98",
+        "rcsb_authors": [
+          "Rozwarski, D.A.",
+          "Grant, G.A.",
+          "Barton, D.H.",
+          "Jacobs Jr., W.R.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Modification of the NADH of the isoniazid target (InhA) from Mycobacterium tuberculosis.",
+        "year": 1998
+      },
+      "struct": {
+        "title": "LONG FATTY ACID CHAIN ENOYL-ACP REDUCTASE (INHA) IN COMPLEX WITH AN ISONICOTINIC-ACYL-NADH INHIBITOR"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1VA5",
+    "data": {
+      "rcsb_id": "1VA5",
+      "audit_author": [
+        {
+          "name": "Ronning, D.R."
+        },
+        {
+          "name": "Vissa, V."
+        },
+        {
+          "name": "Besra, G.S."
+        },
+        {
+          "name": "Belisle, J.T."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 15192106
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M400811200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1VA5"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M400811200",
+        "rcsb_authors": [
+          "Ronning, D.R.",
+          "Vissa, V.",
+          "Besra, G.S.",
+          "Belisle, J.T.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Mycobacterium tuberculosis Antigen 85A and 85C Structures Confirm Binding Orientation and Conserved Substrate Specificity",
+        "year": 2004
+      },
+      "struct": {
+        "title": "Antigen 85C with octylthioglucoside in active site"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "fbpC2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1RJN",
+    "data": {
+      "rcsb_id": "1RJN",
+      "audit_author": [
+        {
+          "name": "Johnston, J.M."
+        },
+        {
+          "name": "Arcus, V.L."
+        },
+        {
+          "name": "Baker, E.N."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 16131752
+        },
+        "rcsb_pubmed_doi": "10.1107/S0907444905017531"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1RJN"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1107/S0907444905017531",
+        "rcsb_authors": [
+          "Johnston, J.M.",
+          "Arcus, V.L.",
+          "Baker, E.N."
+        ],
+        "title": "Structure of naphthoate synthase (MenB) from Mycobacterium tuberculosis in both native and product-bound forms.",
+        "year": 2005
+      },
+      "struct": {
+        "title": "The Crystal Structure of MenB (Rv0548c) from Mycobacterium tuberculosis in Complex with the CoA Portion of Naphthoyl CoA"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "MenB (Rv0548c)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1Q7T",
+    "data": {
+      "rcsb_id": "1Q7T",
+      "audit_author": [
+        {
+          "name": "McCarthy, A.A."
+        },
+        {
+          "name": "Peterson, N.A."
+        },
+        {
+          "name": "Knijff, R."
+        },
+        {
+          "name": "Baker, E.N."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 14698305
+        },
+        "rcsb_pubmed_doi": "10.1016/j.jmb.2003.11.034"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1Q7T"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.jmb.2003.11.034",
+        "rcsb_authors": [
+          "McCarthy, A.A.",
+          "Peterson, N.A.",
+          "Knijff, R.",
+          "Baker, E.N."
+        ],
+        "title": "Crystal Structure of MshB from Mycobacterium tuberculosis, a Deacetylase Involved in Mycothiol Biosynthesis.",
+        "year": 2004
+      },
+      "struct": {
+        "title": "Rv1170 (MshB) from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "Rv1170 (MshB)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NXJ",
+    "data": {
+      "rcsb_id": "1NXJ",
+      "audit_author": [
+        {
+          "name": "Johnston, J.M."
+        },
+        {
+          "name": "Arcus, V.L."
+        },
+        {
+          "name": "Baker, E.N."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12837779
+        },
+        "rcsb_pubmed_doi": "10.1128/jb.185.14.4057-4065.2003"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NXJ"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1128/JB.185.14.4057-4065.2003",
+        "rcsb_authors": [
+          "Johnston, J.M.",
+          "Arcus, V.L.",
+          "Morton, C.J.",
+          "Parker, M.W.",
+          "Baker, E.N."
+        ],
+        "title": "Crystal Structure of a Putative Methyltransferase from Mycobacterium tuberculosis: Misannotation of a Genome Clarified by Protein Structural Analysis",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Structure of Rv3853 from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "MENG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NFR",
+    "data": {
+      "rcsb_id": "1NFR",
+      "audit_author": [
+        {
+          "name": "Yang, J.K."
+        },
+        {
+          "name": "Park, M.S."
+        },
+        {
+          "name": "Waldo, G.S."
+        },
+        {
+          "name": "Suh, S.W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12524453
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0137017100"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NFR"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/pnas.0137017100",
+        "rcsb_authors": [
+          "Yang, J.K.",
+          "Park, M.S.",
+          "Waldo, G.S.",
+          "Suh, S.W."
+        ],
+        "title": "Directed evolution approach to a structural genomics project: Rv2002 from Mycobacterium tuberculosis",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Rv2002 gene product from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NFF",
+    "data": {
+      "rcsb_id": "1NFF",
+      "audit_author": [
+        {
+          "name": "Yang, J.K."
+        },
+        {
+          "name": "Park, M.S."
+        },
+        {
+          "name": "Waldo, G.S."
+        },
+        {
+          "name": "Suh, S.W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12524453
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0137017100"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NFF"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/pnas.0137017100",
+        "rcsb_authors": [
+          "Yang, J.K.",
+          "Park, M.S.",
+          "Waldo, G.S.",
+          "Suh, S.W."
+        ],
+        "title": "Directed evolution approach to a structural genomics project: Rv2002 from Mycobacterium tuberculosis",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Crystal structure of Rv2002 gene product from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NBU",
+    "data": {
+      "rcsb_id": "1NBU",
+      "audit_author": [
+        {
+          "name": "Goulding, C.W."
+        },
+        {
+          "name": "Apostol, M.I."
+        },
+        {
+          "name": "Sawaya, M.R."
+        },
+        {
+          "name": "Phillips, M."
+        },
+        {
+          "name": "Parseghian, A."
+        },
+        {
+          "name": "Eisenberg, D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 15876368
+        },
+        "rcsb_pubmed_doi": "10.1016/j.jmb.2005.03.023"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NBU"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.jmb.2005.03.023",
+        "rcsb_authors": [
+          "Goulding, C.W.",
+          "Apostol, M.I.",
+          "Sawaya, M.R.",
+          "Phillips, M.",
+          "Parseghian, A.",
+          "Eisenberg, D."
+        ],
+        "title": "Regulation by oligomerization in a mycobacterial folate biosynthetic enzyme.",
+        "year": 2005
+      },
+      "struct": {
+        "title": "7,8-Dihydroneopterin Aldolase Complexed with Product From Mycobacterium Tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "FOLB OR RV3607C OR MT3712.1 OR MTCY07H7B.15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "FOLB OR RV3607C OR MT3712.1 OR MTCY07H7B.15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "FOLB OR RV3607C OR MT3712.1 OR MTCY07H7B.15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1N40",
+    "data": {
+      "rcsb_id": "1N40",
+      "audit_author": [
+        {
+          "name": "Leys, D."
+        },
+        {
+          "name": "Mowat, C.G."
+        },
+        {
+          "name": "McLean, K.J."
+        },
+        {
+          "name": "Richmond, A."
+        },
+        {
+          "name": "Chapman, S.K."
+        },
+        {
+          "name": "Walkinshaw, M.D."
+        },
+        {
+          "name": "Munro, A.W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12435731
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M209928200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1N40"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M209928200",
+        "rcsb_authors": [
+          "Leys, D.",
+          "Mowat, C.G.",
+          "McLean, K.J.",
+          "Richmond, A.",
+          "Chapman, S.K.",
+          "Walkinshaw, M.D.",
+          "Munro, A.W."
+        ],
+        "title": "Atomic structure of Mycobacterium tuberculosis CYP121 to 1.06 A reveals novel features of cytochrome P450.",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Atomic structure of CYP121, a mycobacterial P450"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "CYP121 OR RV2276 OR MT2336 OR MTCY339.34C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1ENZ",
+    "data": {
+      "rcsb_id": "1ENZ",
+      "audit_author": [
+        {
+          "name": "Dessen, A."
+        },
+        {
+          "name": "Quemard, A."
+        },
+        {
+          "name": "Blanchard, J.S."
+        },
+        {
+          "name": "Jacobs Jr., W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 7886450
+        },
+        "rcsb_pubmed_doi": "10.1126/science.7886450"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1ENZ"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Dessen, A.",
+          "Quemard, A.",
+          "Blanchard, J.S.",
+          "Jacobs Jr., W.R.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal structure and function of the isoniazid target of Mycobacterium tuberculosis.",
+        "year": 1995
+      },
+      "struct": {
+        "title": "CRYSTAL STRUCTURE AND FUNCTION OF THE ISONIAZID TARGET OF MYCOBACTERIUM TUBERCULOSIS"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1ENY",
+    "data": {
+      "rcsb_id": "1ENY",
+      "audit_author": [
+        {
+          "name": "Dessen, A."
+        },
+        {
+          "name": "Quemard, A."
+        },
+        {
+          "name": "Blanchard, J.S."
+        },
+        {
+          "name": "Jacobs Jr., W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 7886450
+        },
+        "rcsb_pubmed_doi": "10.1126/science.7886450"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1ENY"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Dessen, A.",
+          "Quemard, A.",
+          "Blanchard, J.S.",
+          "Jacobs Jr., W.R.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal structure and function of the isoniazid target of Mycobacterium tuberculosis.",
+        "year": 1995
+      },
+      "struct": {
+        "title": "CRYSTAL STRUCTURE AND FUNCTION OF THE ISONIAZID TARGET OF MYCOBACTERIUM TUBERCULOSIS"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1C3V",
+    "data": {
+      "rcsb_id": "1C3V",
+      "audit_author": [
+        {
+          "name": "Cirilli, M."
+        },
+        {
+          "name": "Zheng, R."
+        },
+        {
+          "name": "Scapin, G."
+        },
+        {
+          "name": "Blanchard, J.S."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12962488
+        },
+        "rcsb_pubmed_doi": "10.1021/bi030044v"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1C3V"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/bi030044v",
+        "rcsb_authors": [
+          "Cirilli, M.",
+          "Zheng, R.",
+          "Scapin, G.",
+          "Blanchard, J.S."
+        ],
+        "title": "The three-dimensional structures of the Mycobacterium tuberculosis\ndihydrodipicolinate reductase-NADH-2,6-PDC and -NADPH-2,6-PDC complexes.\nStructural and mutagenic analysis of relaxed nucleotide specificity",
+        "year": 2003
+      },
+      "struct": {
+        "title": "DIHYDRODIPICOLINATE REDUCTASE FROM MYCOBACTERIUM TUBERCULOSIS COMPLEXED WITH NADPH AND PDC"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1BVR",
+    "data": {
+      "rcsb_id": "1BVR",
+      "audit_author": [
+        {
+          "name": "Rozwarski, D.A."
+        },
+        {
+          "name": "Vilcheze, C."
+        },
+        {
+          "name": "Sugantino, M."
+        },
+        {
+          "name": "Bittman, R."
+        },
+        {
+          "name": "Jacobs, W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 10336454
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.274.22.15582"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1BVR"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.274.22.15582",
+        "rcsb_authors": [
+          "Rozwarski, D.A.",
+          "Vilcheze, C.",
+          "Sugantino, M.",
+          "Bittman, R.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal structure of the Mycobacterium tuberculosis enoyl-ACP reductase, InhA, in complex with NAD+ and a C16 fatty acyl substrate.",
+        "year": 1999
+      },
+      "struct": {
+        "title": "M.TB. ENOYL-ACP REDUCTASE (INHA) IN COMPLEX WITH NAD+ AND C16-FATTY-ACYL-SUBSTRATE"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6BU1",
+    "data": {
+      "rcsb_id": "6BU1",
+      "audit_author": [
+        {
+          "name": "Krieger, I.V."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30137983
+        },
+        "rcsb_pubmed_doi": "10.1021/acs.jcim.8b00417"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6BU1"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/acs.jcim.8b00417",
+        "rcsb_authors": [
+          "Ellenbarger, J.F.",
+          "Krieger, I.V.",
+          "Huang, H.L.",
+          "Gomez-Coca, S.",
+          "Ioerger, T.R.",
+          "Sacchettini, J.C.",
+          "Wheeler, S.E.",
+          "Dunbar, K.R."
+        ],
+        "title": "Anion-pi Interactions in Computer-Aided Drug Design: Modeling the Inhibition of Malate Synthase by Phenyl-Diketo Acids.",
+        "year": 2018
+      },
+      "struct": {
+        "title": "Crystal structure of Mycobacterium tuberculosis malate synthase in complex with 2-Br-3-OH-phenyldiketoacid"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6BA7",
+    "data": {
+      "rcsb_id": "6BA7",
+      "audit_author": [
+        {
+          "name": "Krieger, I.V."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30137983
+        },
+        "rcsb_pubmed_doi": "10.1021/acs.jcim.8b00417"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6BA7"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/acs.jcim.8b00417",
+        "rcsb_authors": [
+          "Ellenbarger, J.F.",
+          "Krieger, I.V.",
+          "Huang, H.L.",
+          "Gomez-Coca, S.",
+          "Ioerger, T.R.",
+          "Sacchettini, J.C.",
+          "Wheeler, S.E.",
+          "Dunbar, K.R."
+        ],
+        "title": "Anion-pi Interactions in Computer-Aided Drug Design: Modeling the Inhibition of Malate Synthase by Phenyl-Diketo Acids.",
+        "year": 2018
+      },
+      "struct": {
+        "title": "Crystal structure of Mycobacterium tuberculosis malate synthase in complex with 2-Cl-4-OH-phenyldiketoacid"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6AXB",
+    "data": {
+      "rcsb_id": "6AXB",
+      "audit_author": [
+        {
+          "name": "Krieger, I.V."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30137983
+        },
+        "rcsb_pubmed_doi": "10.1021/acs.jcim.8b00417"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6AXB"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/acs.jcim.8b00417",
+        "rcsb_authors": [
+          "Ellenbarger, J.F.",
+          "Krieger, I.V.",
+          "Huang, H.L.",
+          "Gomez-Coca, S.",
+          "Ioerger, T.R.",
+          "Sacchettini, J.C.",
+          "Wheeler, S.E.",
+          "Dunbar, K.R."
+        ],
+        "title": "Anion-pi Interactions in Computer-Aided Drug Design: Modeling the Inhibition of Malate Synthase by Phenyl-Diketo Acids.",
+        "year": 2018
+      },
+      "struct": {
+        "title": "Crystal structure of Mycobacterium tuberculosis malate synthase in complex with 2-naphthyldiketoacid"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6ASU",
+    "data": {
+      "rcsb_id": "6ASU",
+      "audit_author": [
+        {
+          "name": "Krieger, I.V."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30137983
+        },
+        "rcsb_pubmed_doi": "10.1021/acs.jcim.8b00417"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6ASU"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/acs.jcim.8b00417",
+        "rcsb_authors": [
+          "Ellenbarger, J.F.",
+          "Krieger, I.V.",
+          "Huang, H.L.",
+          "Gomez-Coca, S.",
+          "Ioerger, T.R.",
+          "Sacchettini, J.C.",
+          "Wheeler, S.E.",
+          "Dunbar, K.R."
+        ],
+        "title": "Anion-pi Interactions in Computer-Aided Drug Design: Modeling the Inhibition of Malate Synthase by Phenyl-Diketo Acids.",
+        "year": 2018
+      },
+      "struct": {
+        "title": "Crystal structure of Mycobacterium tuberculosis malate synthase in complex with 4-methyl-phenyldiketoacid"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2PKF",
+    "data": {
+      "rcsb_id": "2PKF",
+      "audit_author": [
+        {
+          "name": "Reddy, M.C.M."
+        },
+        {
+          "name": "Palaninathan, S.K."
+        },
+        {
+          "name": "Shetty, N.D."
+        },
+        {
+          "name": "Owen, J.L."
+        },
+        {
+          "name": "Watson, M.D."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 17597075
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M703290200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2PKF"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M703290200",
+        "rcsb_authors": [
+          "Reddy, M.C.M.",
+          "Palaninathan, S.K.",
+          "Shetty, N.D.",
+          "Owen, J.L.",
+          "Watson, M.D.",
+          "Sacchettini, J.C."
+        ],
+        "title": "High resolution crystal structures of Mycobacterium tuberculosis adenosine kinase: insights into the mechanism and specificity of this novel prokaryotic enzyme",
+        "year": 2007
+      },
+      "struct": {
+        "title": "Crystal structure of M tuberculosis Adenosine Kinase (apo)"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "Rv2202"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2ASF",
+    "data": {
+      "rcsb_id": "2ASF",
+      "audit_author": [
+        {
+          "name": "Biswal, B.K."
+        },
+        {
+          "name": "Au, K."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "Garen, C."
+        },
+        {
+          "name": "James, M.N."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 16880544
+        },
+        "rcsb_pubmed_doi": "10.1107/S1744309106025012"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2ASF"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1107/S1744309106025012",
+        "rcsb_authors": [
+          "Biswal, B.K.",
+          "Au, K.",
+          "Cherney, M.M.",
+          "Garen, C.",
+          "James, M.N."
+        ],
+        "title": "The molecular structure of Rv2074, a probable pyridoxine 5'-phosphate oxidase from Mycobacterium tuberculosis, at 1.6 angstroms resolution.",
+        "year": 2006
+      },
+      "struct": {
+        "title": "Crystal structure of the conserved hypothetical protein Rv2074 from Mycobacterium tuberculosis 1.6 A"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1P44",
+    "data": {
+      "rcsb_id": "1P44",
+      "audit_author": [
+        {
+          "name": "Kuo, M.R."
+        },
+        {
+          "name": "Morbidoni, H.R."
+        },
+        {
+          "name": "Alland, D."
+        },
+        {
+          "name": "Sneddon, S.F."
+        },
+        {
+          "name": "Gourlie, B.B."
+        },
+        {
+          "name": "Staveski, M.M."
+        },
+        {
+          "name": "Leonard, M."
+        },
+        {
+          "name": "Gregory, J.S."
+        },
+        {
+          "name": "Janjigian, A.D."
+        },
+        {
+          "name": "Yee, C."
+        },
+        {
+          "name": "Musser, J.M."
+        },
+        {
+          "name": "Kreiswirth, B."
+        },
+        {
+          "name": "Iwamoto, H."
+        },
+        {
+          "name": "Perozzo, R."
+        },
+        {
+          "name": "Jacobs Jr, W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "Fidock, D.A."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12606558
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M211968200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1P44"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M211968200",
+        "rcsb_authors": [
+          "Kuo, M.R.",
+          "Morbidoni, H.R.",
+          "Alland, D.",
+          "Sneddon, S.F.",
+          "Gourlie, B.B.",
+          "Staveski, M.M.",
+          "Leonard, M.",
+          "Gregory, J.S.",
+          "Janjigian, A.D.",
+          "Yee, C.",
+          "Musser, J.M.",
+          "Kreiswirth, B.",
+          "Iwamoto, H.",
+          "Perozzo, R.",
+          "Jacobs, W.R.",
+          "Sacchettini, J.C.",
+          "Fidock, D.A."
+        ],
+        "title": "Targeting tuberculosis and malaria through inhibition of Enoyl reductase: compound activity and structural data.",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Targeting tuberculosis and malaria through inhibition of enoyl reductase: compound activity and structural data"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "INHA OR RV1484 OR MT1531 OR MTCY277.05 OR MB1520"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NL3",
+    "data": {
+      "rcsb_id": "1NL3",
+      "audit_author": [
+        {
+          "name": "Sharma, V."
+        },
+        {
+          "name": "Arockiasamy, A."
+        },
+        {
+          "name": "Ronning, D.R."
+        },
+        {
+          "name": "Savva, C.G."
+        },
+        {
+          "name": "Holzenburg, A."
+        },
+        {
+          "name": "Braunstein, M."
+        },
+        {
+          "name": "Jacobs Jr., W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12606717
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0538077100"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NL3"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/pnas.0538077100",
+        "rcsb_authors": [
+          "Sharma, V.",
+          "Arockiasamy, A.",
+          "Ronning, D.R.",
+          "Savva, C.G.",
+          "Holzenburg, A.",
+          "Braunstein, M.",
+          "Jacobs Jr., W.R.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal Structure of M. tuberculosis SecA, A Preprotein Translocating ATPase",
+        "year": 2003
+      },
+      "struct": {
+        "title": "CRYSTAL STRUCTURE OF THE SECA PROTEIN TRANSLOCATION ATPASE FROM MYCOBACTERIUM TUBERCULOSIS in APO FORM"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "SECA1 OR SECA OR RV3240C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NKT",
+    "data": {
+      "rcsb_id": "1NKT",
+      "audit_author": [
+        {
+          "name": "Sharma, V."
+        },
+        {
+          "name": "Arockiasamy, A."
+        },
+        {
+          "name": "Ronning, D.R."
+        },
+        {
+          "name": "Savva, C.G."
+        },
+        {
+          "name": "Holzenburg, A."
+        },
+        {
+          "name": "Braunstein, M."
+        },
+        {
+          "name": "Jacobs Jr., W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12606717
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0538077100"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NKT"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/pnas.0538077100",
+        "rcsb_authors": [
+          "Sharma, V.",
+          "Arockiasamy, A.",
+          "Ronning, D.R.",
+          "Savva, C.G.",
+          "Holzenburg, A.",
+          "Braunstein, M.",
+          "Jacobs Jr., W.R.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Crystal Structure of M. tuberculosis SecA, A Preprotein Translocating ATPase",
+        "year": 2003
+      },
+      "struct": {
+        "title": "CRYSTAL STRUCTURE OF THE SECA PROTEIN TRANSLOCATION ATPASE FROM MYCOBACTERIUM TUBERCULOSIS COMPLEX WITH ADPBS"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "SECA1 OR SECA OR RV3240C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1NFQ",
+    "data": {
+      "rcsb_id": "1NFQ",
+      "audit_author": [
+        {
+          "name": "Yang, J.K."
+        },
+        {
+          "name": "Park, M.S."
+        },
+        {
+          "name": "Waldo, G.S."
+        },
+        {
+          "name": "Suh, S.W."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12524453
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0137017100"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1NFQ"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/pnas.0137017100",
+        "rcsb_authors": [
+          "Yang, J.K.",
+          "Park, M.S.",
+          "Waldo, G.S.",
+          "Suh, S.W."
+        ],
+        "title": "Directed evolution approach to a structural genomics project: Rv2002 from Mycobacterium tuberculosis",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Rv2002 gene product from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1MO3",
+    "data": {
+      "rcsb_id": "1MO3",
+      "audit_author": [
+        {
+          "name": "Datta, S."
+        },
+        {
+          "name": "Ganesh, N."
+        },
+        {
+          "name": "Chandra, N.R."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12557189
+        },
+        "rcsb_pubmed_doi": "10.1002/prot.10315"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1MO3"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1002/prot.10315",
+        "rcsb_authors": [
+          "Datta, S.",
+          "Ganesh, N.",
+          "Chandra, N.R.",
+          "Muniyappa, K.",
+          "Vijayan, M."
+        ],
+        "title": "Structural studies on MtRecA-nucleotide complexes: Insights into DNA and nucleotide binding and the structural signature of NTP recognition",
+        "year": 2003
+      },
+      "struct": {
+        "title": "RECA-ADP COMPLEX"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            },
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1LQU",
+    "data": {
+      "rcsb_id": "1LQU",
+      "audit_author": [
+        {
+          "name": "Bossi, R.T."
+        },
+        {
+          "name": "Aliverti, A."
+        },
+        {
+          "name": "Raimondi, D."
+        },
+        {
+          "name": "Fischer, F."
+        },
+        {
+          "name": "Zanetti, G."
+        },
+        {
+          "name": "Ferrari, D."
+        },
+        {
+          "name": "Tahallah, N."
+        },
+        {
+          "name": "Maier, C.S."
+        },
+        {
+          "name": "Heck, A.J.R."
+        },
+        {
+          "name": "Rizzi, M."
+        },
+        {
+          "name": "Mattevi, A."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12102623
+        },
+        "rcsb_pubmed_doi": "10.1021/bi025858a"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1LQU"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/bi025858a",
+        "rcsb_authors": [
+          "Bossi, R.T.",
+          "Aliverti, A.",
+          "Raimondi, D.",
+          "Fischer, F.",
+          "Zanetti, G.",
+          "Ferrari, D.",
+          "Tahallah, N.",
+          "Maier, C.S.",
+          "Heck, A.J.R.",
+          "Rizzi, M.",
+          "Mattevi, A."
+        ],
+        "title": "A covalent modification of NADP+ revealed by the atomic resolution structure of FprA, a Mycobacterium tuberculosis oxidoreductase.",
+        "year": 2002
+      },
+      "struct": {
+        "title": "Mycobacterium tuberculosis FprA in complex with NADPH"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1LQT",
+    "data": {
+      "rcsb_id": "1LQT",
+      "audit_author": [
+        {
+          "name": "Bossi, R.T."
+        },
+        {
+          "name": "Aliverti, A."
+        },
+        {
+          "name": "Raimondi, D."
+        },
+        {
+          "name": "Fischer, F."
+        },
+        {
+          "name": "Zanetti, G."
+        },
+        {
+          "name": "Ferrari, D."
+        },
+        {
+          "name": "Tahallah, N."
+        },
+        {
+          "name": "Maier, C.S."
+        },
+        {
+          "name": "Heck, A.J.R."
+        },
+        {
+          "name": "Rizzi, M."
+        },
+        {
+          "name": "Mattevi, A."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12102623
+        },
+        "rcsb_pubmed_doi": "10.1021/bi025858a"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1LQT"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/bi025858a",
+        "rcsb_authors": [
+          "Bossi, R.T.",
+          "Aliverti, A.",
+          "Raimondi, D.",
+          "Fischer, F.",
+          "Zanetti, G.",
+          "Ferrari, D.",
+          "Tahallah, N.",
+          "Maier, C.S.",
+          "Heck, A.J.R.",
+          "Rizzi, M.",
+          "Mattevi, A."
+        ],
+        "title": "A covalent modification of NADP+ revealed by the atomic resolution structure of FprA, a Mycobacterium tuberculosis oxidoreductase.",
+        "year": 2002
+      },
+      "struct": {
+        "title": "A covalent modification of NADP+ revealed by the atomic resolution structure of FprA, a Mycobacterium tuberculosis oxidoreductase"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1K0R",
+    "data": {
+      "rcsb_id": "1K0R",
+      "audit_author": [
+        {
+          "name": "Gopal, B."
+        },
+        {
+          "name": "Haire, L.F."
+        },
+        {
+          "name": "Gamblin, S.J."
+        },
+        {
+          "name": "Dodson, E.J."
+        },
+        {
+          "name": "Lane, A.N."
+        },
+        {
+          "name": "Papavinasasundaram, K.G."
+        },
+        {
+          "name": "Colston, M.J."
+        },
+        {
+          "name": "Dodson, G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 11743725
+        },
+        "rcsb_pubmed_doi": "10.1006/jmbi.2000.5144"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1K0R"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1006/jmbi.2000.5144",
+        "rcsb_authors": [
+          "Gopal, B.",
+          "Haire, L.F.",
+          "Gamblin, S.J.",
+          "Dodson, E.J.",
+          "Lane, A.N.",
+          "Papavinasasundaram, K.G.",
+          "Colston, M.J.",
+          "Dodson, G."
+        ],
+        "title": "Crystal structure of the transcription elongation/anti-termination factor NusA from Mycobacterium tuberculosis at 1.7 A resolution.",
+        "year": 2001
+      },
+      "struct": {
+        "title": "Crystal Structure of Mycobacterium tuberculosis NusA"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "MTCY24A1"
+                },
+                {
+                  "value": "number Z95207.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1G19",
+    "data": {
+      "rcsb_id": "1G19",
+      "audit_author": [
+        {
+          "name": "Datta, S."
+        },
+        {
+          "name": "Prabu, M.M."
+        },
+        {
+          "name": "Vaze, M.B."
+        },
+        {
+          "name": "Ganesh, N."
+        },
+        {
+          "name": "Chandra, N.R."
+        },
+        {
+          "name": "Muniyappa, K."
+        },
+        {
+          "name": "Vijayan, M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 11121488
+        },
+        "rcsb_pubmed_doi": "10.1093/nar/28.24.4964"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1G19"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1093/nar/28.24.4964",
+        "rcsb_authors": [
+          "Datta, S.",
+          "Prabu, M.M.",
+          "Vaze, M.B.",
+          "Ganesh, N.",
+          "Chandra, N.R.",
+          "Muniyappa, K.",
+          "Vijayan, M."
+        ],
+        "title": "Crystal structures of Mycobacterium tuberculosis RecA and its complex with ADP-AlF(4): implications for decreased ATPase activity and molecular aggregation",
+        "year": 2000
+      },
+      "struct": {
+        "title": "STRUCTURE OF RECA PROTEIN"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1G18",
+    "data": {
+      "rcsb_id": "1G18",
+      "audit_author": [
+        {
+          "name": "Datta, S."
+        },
+        {
+          "name": "Prabu, M.M."
+        },
+        {
+          "name": "Vaze, M.B."
+        },
+        {
+          "name": "Ganesh, N."
+        },
+        {
+          "name": "Chandra, N.R."
+        },
+        {
+          "name": "Muniyappa, K."
+        },
+        {
+          "name": "Vijayan, M."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 11121488
+        },
+        "rcsb_pubmed_doi": "10.1093/nar/28.24.4964"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1G18"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1093/nar/28.24.4964",
+        "rcsb_authors": [
+          "Datta, S.",
+          "Prabu, M.M.",
+          "Vaze, M.B.",
+          "Ganesh, N.",
+          "Chandra, N.R.",
+          "Muniyappa, K.",
+          "Vijayan, M."
+        ],
+        "title": "Crystal structures of Mycobacterium tuberculosis RecA and its complex with ADP-AlF(4): implications for decreased ATPase activity and molecular aggregation",
+        "year": 2000
+      },
+      "struct": {
+        "title": "RECA-ADP-ALF4 COMPLEX"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1F0P",
+    "data": {
+      "rcsb_id": "1F0P",
+      "audit_author": [
+        {
+          "name": "Anderson, D.H."
+        },
+        {
+          "name": "Harth, G."
+        },
+        {
+          "name": "Horwitz, M.A."
+        },
+        {
+          "name": "Eisenberg, D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 11254389
+        },
+        "rcsb_pubmed_doi": "10.1006/jmbi.2001.4461"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1F0P"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1006/jmbi.2001.4461",
+        "rcsb_authors": [
+          "Anderson, D.H.",
+          "Harth, G.",
+          "Horwitz, M.A.",
+          "Eisenberg, D."
+        ],
+        "title": "An interfacial mechanism and a class of inhibitors inferred from two crystal structures of the Mycobacterium tuberculosis 30 kDa major secretory protein (Antigen 85B), a mycolyl transferase.",
+        "year": 2001
+      },
+      "struct": {
+        "title": "MYCOBACTERIUM TUBERCULOSIS ANTIGEN 85B WITH TREHALOSE"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1F0N",
+    "data": {
+      "rcsb_id": "1F0N",
+      "audit_author": [
+        {
+          "name": "Anderson, D.H."
+        },
+        {
+          "name": "Harth, G."
+        },
+        {
+          "name": "Horwitz, M.A."
+        },
+        {
+          "name": "Eisenberg, D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 11254389
+        },
+        "rcsb_pubmed_doi": "10.1006/jmbi.2001.4461"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1F0N"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1006/jmbi.2001.4461",
+        "rcsb_authors": [
+          "Anderson, D.H.",
+          "Harth, G.",
+          "Horwitz, M.A.",
+          "Eisenberg, D."
+        ],
+        "title": "An interfacial mechanism and a class of inhibitors inferred from two crystal structures of the Mycobacterium tuberculosis 30 kDa major secretory protein (Antigen 85B), a mycolyl transferase.",
+        "year": 2001
+      },
+      "struct": {
+        "title": "MYCOBACTERIUM TUBERCULOSIS ANTIGEN 85B"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1TXO",
+    "data": {
+      "rcsb_id": "1TXO",
+      "audit_author": [
+        {
+          "name": "Pullen, K.E."
+        },
+        {
+          "name": "Ng, H.L."
+        },
+        {
+          "name": "Sung, P.Y."
+        },
+        {
+          "name": "Good, M.C."
+        },
+        {
+          "name": "Smith, S.M."
+        },
+        {
+          "name": "Alber, T."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 15530359
+        },
+        "rcsb_pubmed_doi": "10.1016/j.str.2004.09.008"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1TXO"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.str.2004.09.008",
+        "rcsb_authors": [
+          "Pullen, K.E.",
+          "Ng, H.L.",
+          "Sung, P.Y.",
+          "Good, M.C.",
+          "Smith, S.M.",
+          "Alber, T."
+        ],
+        "title": "An Alternate Conformation and a Third Metal in PstP/Ppp, the M. tuberculosis PP2C-Family Ser/Thr Protein Phosphatase.",
+        "year": 2004
+      },
+      "struct": {
+        "title": "Crystal structure of the Mycobacterium tuberculosis serine/threonine phosphatase PstP/Ppp at 1.95 A."
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1MRU",
+    "data": {
+      "rcsb_id": "1MRU",
+      "audit_author": [
+        {
+          "name": "Young, T.A."
+        },
+        {
+          "name": "Delagoutte, B."
+        },
+        {
+          "name": "Endrizzi, J.A."
+        },
+        {
+          "name": "Alber, T."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12548283
+        },
+        "rcsb_pubmed_doi": "10.1038/nsb897"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1MRU"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1038/nsb897",
+        "rcsb_authors": [
+          "Young, T.A.",
+          "Delagoutte, B.",
+          "Endrizzi, J.A.",
+          "Falick, A.M.",
+          "Alber, T."
+        ],
+        "title": "Structure of Mycobacterium tuberculosis PknB supports a universal activation mechanism for Ser/Thr protein kinases.",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Intracellular Ser/Thr protein kinase domain of Mycobacterium tuberculosis PknB."
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1MO5",
+    "data": {
+      "rcsb_id": "1MO5",
+      "audit_author": [
+        {
+          "name": "Datta, S."
+        },
+        {
+          "name": "Ganesh, N."
+        },
+        {
+          "name": "Chandra, N.R."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12557189
+        },
+        "rcsb_pubmed_doi": "10.1002/prot.10315"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1MO5"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1002/prot.10315",
+        "rcsb_authors": [
+          "Datta, S.",
+          "Ganesh, N.",
+          "Chandra, N.R.",
+          "Muniyappa, K.",
+          "Vijayan, M."
+        ],
+        "title": "Structural studies on MtRecA-nucleotide complexes: Insights into DNA and nucleotide binding and the structural signature of NTP recognition",
+        "year": 2003
+      },
+      "struct": {
+        "title": "RECA-ATP-GAMMA-S-MG COMPLEX"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            },
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1MO4",
+    "data": {
+      "rcsb_id": "1MO4",
+      "audit_author": [
+        {
+          "name": "Datta, S."
+        },
+        {
+          "name": "Ganesh, N."
+        },
+        {
+          "name": "Chandra, N.R."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12557189
+        },
+        "rcsb_pubmed_doi": "10.1002/prot.10315"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1MO4"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1002/prot.10315",
+        "rcsb_authors": [
+          "Datta, S.",
+          "Ganesh, N.",
+          "Chandra, N.R.",
+          "Muniyappa, K.",
+          "Vijayan, M."
+        ],
+        "title": "Structural studies on MtRecA-nucleotide complexes: Insights into DNA and nucleotide binding and the structural signature of NTP recognition",
+        "year": 2003
+      },
+      "struct": {
+        "title": "RECA-ATP-GAMMA-S COMPLEX"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            },
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "3K7Z",
+    "data": {
+      "rcsb_id": "3K7Z",
+      "audit_author": [
+        {
+          "name": "Holton, J."
+        },
+        {
+          "name": "Alber, T."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 14752198
+        },
+        "rcsb_pubmed_doi": "10.1073/pnas.0306241101"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "3K7Z"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1073/PNAS.0306241101",
+        "rcsb_authors": [
+          "Holton, J.",
+          "Alber, T."
+        ],
+        "title": "Automated Protein Crystal Structure Determination Using Elves.",
+        "year": 2004
+      },
+      "struct": {
+        "title": "GCN4-Leucine zipper core mutant as N16A trigonal automatic solution"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": null,
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1HTQ",
+    "data": {
+      "rcsb_id": "1HTQ",
+      "audit_author": [
+        {
+          "name": "Gill, H.S."
+        },
+        {
+          "name": "Pfluegl, G.M."
+        },
+        {
+          "name": "Eisenberg, D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12146952
+        },
+        "rcsb_pubmed_doi": "10.1021/bi020254s"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1HTQ"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/bi020254s",
+        "rcsb_authors": [
+          "Gill, H.S.",
+          "Pfluegl, G.M.",
+          "Eisenberg, D."
+        ],
+        "title": "Multicopy crystallographic refinement of a relaxed glutamine synthetase from Mycobacterium tuberculosis highlights flexible loops in the enzymatic mechanism and its regulation.",
+        "year": 2002
+      },
+      "struct": {
+        "title": "Multicopy crystallographic structure of a relaxed glutamine synthetase from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1HTO",
+    "data": {
+      "rcsb_id": "1HTO",
+      "audit_author": [
+        {
+          "name": "Gill, H.S."
+        },
+        {
+          "name": "Eisenberg, D."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12146952
+        },
+        "rcsb_pubmed_doi": "10.1021/bi020254s"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1HTO"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/bi020254s",
+        "rcsb_authors": [
+          "Gill, H.S.",
+          "Pfluegl, G.M.",
+          "Eisenberg, D."
+        ],
+        "title": "Multicopy crystallographic refinement of a relaxed glutamine synthetase from Mycobacterium tuberculosis highlights flexible loops in the enzymatic mechanism and its regulation.",
+        "year": 2002
+      },
+      "struct": {
+        "title": "CRYSTALLOGRAPHIC STRUCTURE OF A RELAXED GLUTAMINE SYNTHETASE FROM MYCOBACTERIUM TUBERCULOSIS"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1W30",
+    "data": {
+      "rcsb_id": "1W30",
+      "audit_author": [
+        {
+          "name": "Kantardjieff, K.A."
+        },
+        {
+          "name": "Vasquez, C."
+        },
+        {
+          "name": "Castro, P."
+        },
+        {
+          "name": "Warfel, N.N."
+        },
+        {
+          "name": "Rho, B.-S."
+        },
+        {
+          "name": "Lekin, T."
+        },
+        {
+          "name": "Kim, C.-Y."
+        },
+        {
+          "name": "Segelke, B.W."
+        },
+        {
+          "name": "Terwilliger, T."
+        },
+        {
+          "name": "Rupp, B."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 15805589
+        },
+        "rcsb_pubmed_doi": "10.1107/S090744490403389X"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1W30"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1107/S090744490403389X",
+        "rcsb_authors": [
+          "Kantardjieff, K.A.",
+          "Vasquez, C.",
+          "Castro, P.",
+          "Warfel, N.N.",
+          "Rho, B.-S.",
+          "Lekin, T.",
+          "Kim, C.-Y.",
+          "Segelke, B.W.",
+          "Terwilliger, T.",
+          "Rupp, B."
+        ],
+        "title": "Structure of Pyrr (Rv1379) from Mycobacterium Tuberculosis: A Persistence Gene and Protein Drug Target",
+        "year": 2005
+      },
+      "struct": {
+        "title": "PyrR of Mycobacterium Tuberculosis as a potential drug target"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1UPI",
+    "data": {
+      "rcsb_id": "1UPI",
+      "audit_author": [
+        {
+          "name": "Kim, C.-Y."
+        },
+        {
+          "name": "Naranjo, C."
+        },
+        {
+          "name": "Waldo, G.S."
+        },
+        {
+          "name": "Lekin, T."
+        },
+        {
+          "name": "Segelke, B.W."
+        },
+        {
+          "name": "Kantardjieff, K.A."
+        },
+        {
+          "name": "Zemla, A."
+        },
+        {
+          "name": "Terwilliger, T."
+        },
+        {
+          "name": "Rupp, B."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 15103135
+        },
+        "rcsb_pubmed_doi": "10.1107/S0907444904005323"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1UPI"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1107/S0907444904005323",
+        "rcsb_authors": [
+          "Kantardjieff, K.A.",
+          "Kim, C.-Y.",
+          "Naranjo, C.",
+          "Waldo, G.S.",
+          "Lekin, T.",
+          "Segelke, B.W.",
+          "Zemla, A.",
+          "Park, M.S.",
+          "Terwilliger, T.",
+          "Rupp, B."
+        ],
+        "title": "Mycobacterium Tuberculosis Rmlc Epimerase (Rv3465): A Promising Drug-Target Structure in the Rhamnose Pathway",
+        "year": 2004
+      },
+      "struct": {
+        "title": "Mycobacterium tuberculosis rmlC epimerase (Rv3465)"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1GR0",
+    "data": {
+      "rcsb_id": "1GR0",
+      "audit_author": [
+        {
+          "name": "Norman, R.A."
+        },
+        {
+          "name": "Murray-Rust, J."
+        },
+        {
+          "name": "McDonald, N.Q."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12005437
+        },
+        "rcsb_pubmed_doi": "10.1016/s0969-2126(02)00718-9"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1GR0"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/S0969-2126(02)00718-9",
+        "rcsb_authors": [
+          "Norman, R.A.",
+          "Mcalister, M.S.B.",
+          "Murray-Rust, J.",
+          "Movahedzadeh, F.",
+          "Stoker, N.G.",
+          "Mcdonald, N.Q."
+        ],
+        "title": "Crystal Structure of Inositol 1-Phosphate Synthase from Mycobacterium Tuberculosis, a Key Enzyme in Phosphatidylinositol Synthesis",
+        "year": 2002
+      },
+      "struct": {
+        "title": "myo-inositol 1-phosphate synthase from Mycobacterium tuberculosis in complex with NAD and zinc."
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2PKM",
+    "data": {
+      "rcsb_id": "2PKM",
+      "audit_author": [
+        {
+          "name": "Reddy, M.C.M."
+        },
+        {
+          "name": "Palaninathan, S.K."
+        },
+        {
+          "name": "Shetty, N.D."
+        },
+        {
+          "name": "Owen, J.L."
+        },
+        {
+          "name": "Watson, M.D."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 17597075
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M703290200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2PKM"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M703290200",
+        "rcsb_authors": [
+          "Reddy, M.C.M.",
+          "Palaninathan, S.K.",
+          "Shetty, N.D.",
+          "Owen, J.L.",
+          "Watson, M.D.",
+          "Sacchettini, J.C."
+        ],
+        "title": "High resolution crystal structures of Mycobacterium tuberculosis adenosine kinase: insights into the mechanism and specificity of this novel prokaryotic enzyme",
+        "year": 2007
+      },
+      "struct": {
+        "title": "Crystal structure of M tuberculosis Adenosine Kinase complexed with adenosine"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "Rv2202"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6C2X",
+    "data": {
+      "rcsb_id": "6C2X",
+      "audit_author": [
+        {
+          "name": "Krieger, I.V."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30137983
+        },
+        "rcsb_pubmed_doi": "10.1021/acs.jcim.8b00417"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6C2X"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1021/acs.jcim.8b00417",
+        "rcsb_authors": [
+          "Ellenbarger, J.F.",
+          "Krieger, I.V.",
+          "Huang, H.L.",
+          "Gomez-Coca, S.",
+          "Ioerger, T.R.",
+          "Sacchettini, J.C.",
+          "Wheeler, S.E.",
+          "Dunbar, K.R."
+        ],
+        "title": "Anion-pi Interactions in Computer-Aided Drug Design: Modeling the Inhibition of Malate Synthase by Phenyl-Diketo Acids.",
+        "year": 2018
+      },
+      "struct": {
+        "title": "Crystal structure of Mycobacterium tuberculosis malate synthase in complex with 2-Br-6-Me-phenyldiketoacid"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "3AAY",
+    "data": {
+      "rcsb_id": "3AAY",
+      "audit_author": [
+        {
+          "name": "Sankaranarayanan, R."
+        },
+        {
+          "name": "Witholt, S.J."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "Garen, C.R."
+        },
+        {
+          "name": "Cherney, L.T."
+        },
+        {
+          "name": "James, M.N.G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": null,
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "3AAY"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": null,
+        "rcsb_authors": [
+          "Sankaranarayanan, R.",
+          "Witholt, S.J.",
+          "Cherney, M.M.",
+          "Garen, C.R.",
+          "Cherney, L.T.",
+          "James, M.N.G."
+        ],
+        "title": "The crystal structure of probable thiosulfate sulfurtransferase CysA3 (Rv3117) from Mycobacterium tuberculosis",
+        "year": null
+      },
+      "struct": {
+        "title": "Crystal structure of probable thiosulfate sulfurtransferase CYSA3 (RV3117) from Mycobacterium tuberculosis: orthorhombic form"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "CysA3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "6CT5",
+    "data": {
+      "rcsb_id": "6CT5",
+      "audit_author": [
+        {
+          "name": "Mosior, J."
+        },
+        {
+          "name": "Sacchettini, J."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 30705156
+        },
+        "rcsb_pubmed_doi": "10.1126/science.aau8959"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "6CT5"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1126/science.aau8959",
+        "rcsb_authors": [
+          "Ballinger, E.",
+          "Mosior, J.",
+          "Hartman, T.",
+          "Burns-Huang, K.",
+          "Gold, B.",
+          "Morris, R.",
+          "Goullieux, L.",
+          "Blanc, I.",
+          "Vaubourgeix, J.",
+          "Lagrange, S.",
+          "Fraisse, L.",
+          "Sans, S.",
+          "Couturier, C.",
+          "Bacque, E.",
+          "Rhee, K.",
+          "Scarry, S.M.",
+          "Aube, J.",
+          "Yang, G.",
+          "Ouerfelli, O.",
+          "Schnappinger, D.",
+          "Ioerger, T.R.",
+          "Engelhart, C.A.",
+          "McConnell, J.A.",
+          "McAulay, K.",
+          "Fay, A.",
+          "Roubert, C.",
+          "Sacchettini, J.",
+          "Nathan, C."
+        ],
+        "title": "Opposing reactions in coenzyme A metabolism sensitizeMycobacterium tuberculosisto enzyme inhibition.",
+        "year": 2019
+      },
+      "struct": {
+        "title": "PptT PAP(CoA) 8918 complex"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "CRX58_05810"
+                },
+                {
+                  "value": "ERS124361_01504"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2A6P",
+    "data": {
+      "rcsb_id": "2A6P",
+      "audit_author": [
+        {
+          "name": "Watkins, H.A."
+        },
+        {
+          "name": "Yu, M."
+        },
+        {
+          "name": "Baker, E.N."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 16672613
+        },
+        "rcsb_pubmed_doi": "10.1128/JB.188.10.3589-3599.2006"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2A6P"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1128/JB.188.10.3589-3599.2006",
+        "rcsb_authors": [
+          "Watkins, H.A.",
+          "Baker, E.N."
+        ],
+        "title": "Structural and Functional Analysis of Rv3214 from Mycobacterium tuberculosis, a Protein with Conflicting Functional Annotations, Leads to Its Characterization as a Phosphatase.",
+        "year": 2006
+      },
+      "struct": {
+        "title": "Structure Solution to 2.2 Angstrom and Functional Characterisation of the Open Reading Frame Rv3214 from Mycobacterium tuberculosis"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis H37Rv",
+              "rcsb_gene_name": [
+                {
+                  "value": "Rv3214 (EntD)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "2A15",
+    "data": {
+      "rcsb_id": "2A15",
+      "audit_author": [
+        {
+          "name": "Garen, C.R."
+        },
+        {
+          "name": "Cherney, M.M."
+        },
+        {
+          "name": "James, M.N.G."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 18589008
+        },
+        "rcsb_pubmed_doi": "10.1016/j.bbapap.2008.05.012"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "2A15"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.bbapap.2008.05.012",
+        "rcsb_authors": [
+          "Cherney, M.M.",
+          "Garen, C.R.",
+          "James, M.N.G."
+        ],
+        "title": "Crystal structure of Mycobacterium tuberculosis Rv0760c at 1.50 A resolution, a structural homolog of Delta(5)-3-ketosteroid isomerase",
+        "year": 2008
+      },
+      "struct": {
+        "title": "X-ray Crystal Structure of RV0760 from Mycobacterium Tuberculosis at 1.68 Angstrom Resolution"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "Rv0760"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1PM7",
+    "data": {
+      "rcsb_id": "1PM7",
+      "audit_author": [
+        {
+          "name": "Dong, C."
+        },
+        {
+          "name": "Naismith, J.H."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12951098
+        },
+        "rcsb_pubmed_doi": "10.1016/s0960-894x(03)00673-5"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1PM7"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/S0960-894X(03)00673-5",
+        "rcsb_authors": [
+          "Babaoglu, K.",
+          "Page, M.A.",
+          "Jones, V.C.",
+          "McNeil, M.R.",
+          "Dong, C.",
+          "Naismith, J.H.",
+          "Lee, R.E."
+        ],
+        "title": "Novel inhibitors of an emerging target in Mycobacterium tuberculosis; substituted thiazolidinones as inhibitors of dTDP-rhamnose synthesis.",
+        "year": 2003
+      },
+      "struct": {
+        "title": "RmlC (dTDP-6-DEOXY-D-XYLO-4-HEXULOSE 3,5-EPIMERASE)STRUCTURE FROM MYCOBACTERIUM TUBERCULOSIS AND INHIBITOR DESIGN. THE APO STRUCTURE."
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "rmlc (rfbc)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1HZP",
+    "data": {
+      "rcsb_id": "1HZP",
+      "audit_author": [
+        {
+          "name": "Scarsdale, J.N."
+        },
+        {
+          "name": "Kazanina, G."
+        },
+        {
+          "name": "He, X."
+        },
+        {
+          "name": "Reynolds, K.A."
+        },
+        {
+          "name": "Wright, H.T."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 11278743
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M010762200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1HZP"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M010762200",
+        "rcsb_authors": [
+          "Scarsdale, J.N.",
+          "Kazanina, G.",
+          "He, X.",
+          "Reynolds, K.A.",
+          "Wright, H.T."
+        ],
+        "title": "Crystal structure of the Mycobacterium tuberculosis beta-ketoacyl-acyl carrier protein synthase III",
+        "year": 2001
+      },
+      "struct": {
+        "title": "Crystal Structure of the Myobacterium Tuberculosis Beta-Ketoacyl-Acyl Carrier Protein Synthase III"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "1P45",
+    "data": {
+      "rcsb_id": "1P45",
+      "audit_author": [
+        {
+          "name": "Kuo, M.R."
+        },
+        {
+          "name": "Morbidoni, H.R."
+        },
+        {
+          "name": "Alland, D."
+        },
+        {
+          "name": "Sneddon, S.F."
+        },
+        {
+          "name": "Gourlie, B.B."
+        },
+        {
+          "name": "Staveski, M.M."
+        },
+        {
+          "name": "Leonard, M."
+        },
+        {
+          "name": "Gregory, J.S."
+        },
+        {
+          "name": "Janjigian, A.D."
+        },
+        {
+          "name": "Yee, C."
+        },
+        {
+          "name": "Musser, J.M."
+        },
+        {
+          "name": "Kreiswirth, B.N."
+        },
+        {
+          "name": "Iwamoto, H."
+        },
+        {
+          "name": "Perozzo, R."
+        },
+        {
+          "name": "Jacobs Jr., W.R."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        },
+        {
+          "name": "Fidock, D.A."
+        },
+        {
+          "name": "TB Structural Genomics Consortium (TBSGC)"
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 12606558
+        },
+        "rcsb_pubmed_doi": "10.1074/jbc.M211968200"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "1P45"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1074/jbc.M211968200",
+        "rcsb_authors": [
+          "Kuo, M.R.",
+          "Morbidoni, H.R.",
+          "Alland, D.",
+          "Sneddon, S.F.",
+          "Gourlie, B.B.",
+          "Staveski, M.M.",
+          "Leonard, M.",
+          "Gregory, J.S.",
+          "Janjigian, A.D.",
+          "Yee, C.",
+          "Musser, J.M.",
+          "Kreiswirth, B.",
+          "Iwamoto, H.",
+          "Perozzo, R.",
+          "Jacobs, W.R.",
+          "Sacchettini, J.C.",
+          "Fidock, D.A."
+        ],
+        "title": "Targeting tuberculosis and malaria through inhibition of Enoyl reductase: compound activity and structural data.",
+        "year": 2003
+      },
+      "struct": {
+        "title": "Targeting tuberculosis and malaria through inhibition of enoyl reductase: compound activity and structural data"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "INHA OR RV1484 OR MT1531 OR MTCY277.05"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V42",
+    "data": {
+      "rcsb_id": "5V42",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V42"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of Mtb Pks13 Thioesterase domain in complex with inhibitor TAM3"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V41",
+    "data": {
+      "rcsb_id": "5V41",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V41"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of Mtb Pks13 Thioesterase domain in complex with inhibitor TAM5"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V40",
+    "data": {
+      "rcsb_id": "5V40",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V40"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of Mtb Pks13 Thioesterase domain in complex with inhibitor TAM6"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V3X",
+    "data": {
+      "rcsb_id": "5V3X",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V3X"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of Mtb Pks13 Thioesterase domain in complex with inhibitor TAM1"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V3W",
+    "data": {
+      "rcsb_id": "5V3W",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V3W"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of the Apo form of Thioesterase domain of Mtb Pks13"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V3Z",
+    "data": {
+      "rcsb_id": "5V3Z",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V3Z"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of the D1607N mutant form of Thioesterase domain of Mtb Pks13"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  },
+  {
+    "identifier": "5V3Y",
+    "data": {
+      "rcsb_id": "5V3Y",
+      "audit_author": [
+        {
+          "name": "Aggarwal, A."
+        },
+        {
+          "name": "Sacchettini, J.C."
+        }
+      ],
+      "pubmed": {
+        "rcsb_pubmed_container_identifiers": {
+          "pubmed_id": 28669536
+        },
+        "rcsb_pubmed_doi": "10.1016/j.cell.2017.06.025"
+      },
+      "rcsb_entry_container_identifiers": {
+        "emdb_ids": null,
+        "entry_id": "5V3Y"
+      },
+      "rcsb_primary_citation": {
+        "pdbx_database_id_DOI": "10.1016/j.cell.2017.06.025",
+        "rcsb_authors": [
+          "Aggarwal, A.",
+          "Parai, M.K.",
+          "Shetty, N.",
+          "Wallis, D.",
+          "Woolhiser, L.",
+          "Hastings, C.",
+          "Dutta, N.K.",
+          "Galaviz, S.",
+          "Dhakal, R.C.",
+          "Shrestha, R.",
+          "Wakabayashi, S.",
+          "Walpole, C.",
+          "Matthews, D.",
+          "Floyd, D.",
+          "Scullion, P.",
+          "Riley, J.",
+          "Epemolu, O.",
+          "Norval, S.",
+          "Snavely, T.",
+          "Robertson, G.T.",
+          "Rubin, E.J.",
+          "Ioerger, T.R.",
+          "Sirgel, F.A.",
+          "van der Merwe, R.",
+          "van Helden, P.D.",
+          "Keller, P.",
+          "Bottger, E.C.",
+          "Karakousis, P.C.",
+          "Lenaerts, A.J.",
+          "Sacchettini, J.C."
+        ],
+        "title": "Development of a Novel Lead that Targets M. tuberculosis Polyketide Synthase 13.",
+        "year": 2017
+      },
+      "struct": {
+        "title": "Crystal Structure of Mtb Pks13 Thioesterase domain in complex with inhibitor TAM16"
+      },
+      "polymer_entities": [
+        {
+          "rcsb_entity_source_organism": [
+            {
+              "ncbi_scientific_name": "Mycobacterium tuberculosis",
+              "rcsb_gene_name": [
+                {
+                  "value": "pks"
+                },
+                {
+                  "value": "ERS027654_02263"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "entry"
+  }
+]
+300
