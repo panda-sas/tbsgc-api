@@ -81,71 +81,6 @@
     "type": "entry"
   },
   {
-    "identifier": "3AAX",
-    "data": {
-      "rcsb_id": "3AAX",
-      "audit_author": [
-        {
-          "name": "Sankaranarayanan, R."
-        },
-        {
-          "name": "Witholt, S.J."
-        },
-        {
-          "name": "Cherney, M.M."
-        },
-        {
-          "name": "Garen, C.R."
-        },
-        {
-          "name": "Cherney, L.T."
-        },
-        {
-          "name": "James, M.N.G."
-        },
-        {
-          "name": "TB Structural Genomics Consortium (TBSGC)"
-        }
-      ],
-      "pubmed": null,
-      "rcsb_entry_container_identifiers": {
-        "emdb_ids": null,
-        "entry_id": "3AAX"
-      },
-      "rcsb_primary_citation": {
-        "pdbx_database_id_DOI": null,
-        "rcsb_authors": [
-          "Sankaranarayanan, R.",
-          "Witholt, S.J.",
-          "Cherney, M.M.",
-          "Garen, C.R.",
-          "Cherney, L.T.",
-          "James, M.N.G."
-        ],
-        "title": "The crystal structure of probable thiosulfate sulfurtransferase CysA3 (Rv3117) from Mycobacterium tuberculosis",
-        "year": null
-      },
-      "struct": {
-        "title": "Crystal structure of probable thiosulfate sulfurtransferase cysa3 (RV3117) from Mycobacterium tuberculosis: monoclinic FORM"
-      },
-      "polymer_entities": [
-        {
-          "rcsb_entity_source_organism": [
-            {
-              "ncbi_scientific_name": "Mycobacterium tuberculosis",
-              "rcsb_gene_name": [
-                {
-                  "value": "CysA3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "type": "entry"
-  },
-  {
     "identifier": "6DRQ",
     "data": {
       "rcsb_id": "6DRQ",
@@ -1433,66 +1368,6 @@
               "rcsb_gene_name": [
                 {
                   "value": "Rv1170 (MshB)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "type": "entry"
-  },
-  {
-    "identifier": "1NXJ",
-    "data": {
-      "rcsb_id": "1NXJ",
-      "audit_author": [
-        {
-          "name": "Johnston, J.M."
-        },
-        {
-          "name": "Arcus, V.L."
-        },
-        {
-          "name": "Baker, E.N."
-        },
-        {
-          "name": "TB Structural Genomics Consortium (TBSGC)"
-        }
-      ],
-      "pubmed": {
-        "rcsb_pubmed_container_identifiers": {
-          "pubmed_id": 12837779
-        },
-        "rcsb_pubmed_doi": "10.1128/jb.185.14.4057-4065.2003"
-      },
-      "rcsb_entry_container_identifiers": {
-        "emdb_ids": null,
-        "entry_id": "1NXJ"
-      },
-      "rcsb_primary_citation": {
-        "pdbx_database_id_DOI": "10.1128/JB.185.14.4057-4065.2003",
-        "rcsb_authors": [
-          "Johnston, J.M.",
-          "Arcus, V.L.",
-          "Morton, C.J.",
-          "Parker, M.W.",
-          "Baker, E.N."
-        ],
-        "title": "Crystal Structure of a Putative Methyltransferase from Mycobacterium tuberculosis: Misannotation of a Genome Clarified by Protein Structural Analysis",
-        "year": 2003
-      },
-      "struct": {
-        "title": "Structure of Rv3853 from Mycobacterium tuberculosis"
-      },
-      "polymer_entities": [
-        {
-          "rcsb_entity_source_organism": [
-            {
-              "ncbi_scientific_name": "Mycobacterium tuberculosis",
-              "rcsb_gene_name": [
-                {
-                  "value": "MENG"
                 }
               ]
             }
@@ -4028,71 +3903,6 @@
     "type": "entry"
   },
   {
-    "identifier": "3AAY",
-    "data": {
-      "rcsb_id": "3AAY",
-      "audit_author": [
-        {
-          "name": "Sankaranarayanan, R."
-        },
-        {
-          "name": "Witholt, S.J."
-        },
-        {
-          "name": "Cherney, M.M."
-        },
-        {
-          "name": "Garen, C.R."
-        },
-        {
-          "name": "Cherney, L.T."
-        },
-        {
-          "name": "James, M.N.G."
-        },
-        {
-          "name": "TB Structural Genomics Consortium (TBSGC)"
-        }
-      ],
-      "pubmed": null,
-      "rcsb_entry_container_identifiers": {
-        "emdb_ids": null,
-        "entry_id": "3AAY"
-      },
-      "rcsb_primary_citation": {
-        "pdbx_database_id_DOI": null,
-        "rcsb_authors": [
-          "Sankaranarayanan, R.",
-          "Witholt, S.J.",
-          "Cherney, M.M.",
-          "Garen, C.R.",
-          "Cherney, L.T.",
-          "James, M.N.G."
-        ],
-        "title": "The crystal structure of probable thiosulfate sulfurtransferase CysA3 (Rv3117) from Mycobacterium tuberculosis",
-        "year": null
-      },
-      "struct": {
-        "title": "Crystal structure of probable thiosulfate sulfurtransferase CYSA3 (RV3117) from Mycobacterium tuberculosis: orthorhombic form"
-      },
-      "polymer_entities": [
-        {
-          "rcsb_entity_source_organism": [
-            {
-              "ncbi_scientific_name": "Mycobacterium tuberculosis",
-              "rcsb_gene_name": [
-                {
-                  "value": "CysA3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "type": "entry"
-  },
-  {
     "identifier": "6CT5",
     "data": {
       "rcsb_id": "6CT5",
@@ -5100,4 +4910,4 @@
     "type": "entry"
   }
 ]
-300
+303

@@ -10,6 +10,7 @@ const { resolve } = require("path");
 let RvList = [];
 let GeneList = [];
 let FullGeneList = [];
+let failedRecords = [];
 
 /* build the gene array */
 
@@ -19,12 +20,14 @@ let readGeneCSV = async () => {
 
   return new Promise((resolve) => {
     GeneJSON.forEach((ele) => {
-      GeneList.push(ele.GeneName);
-      RvList.push(ele.AccessionNumber);
+      GeneList.push(ele.GeneName.toLowerCase());
+      RvList.push(ele.AccessionNumber.toLowerCase());
 
       //RvList = [...new Set(RvList.map((record) => record))];
-      FullGeneList[ele.GeneName] = ele;
-      FullGeneList[ele.AccessionNumber] = ele;
+      if (!FullGeneList.includes(ele.GeneName.toLowerCase()))
+        FullGeneList[ele.GeneName.toLowerCase()] = ele;
+      if (!FullGeneList.includes(ele.AccessionNumber.toLowerCase()))
+        FullGeneList[ele.AccessionNumber.toLowerCase()] = ele;
     });
     resolve();
   });
@@ -68,21 +71,20 @@ let generateStructURL = (pdbid) => {
 /* Generate ORF and PDB Id array */
 let generateORFPDBID = () => {
   let orfPdbID = [];
-  let rawData = fs.readFileSync("./Data/two.json");
+  let rawData = fs.readFileSync("./Data/all.json");
   let pdbRecords = JSON.parse(rawData);
-
-  let failedRecords = [];
 
   pdbRecords.forEach((record) => {
     var success = false;
     var selectedRvs = selectRvs(record); // selected Rvs from array object
     var uniqueRvs = [...new Set(selectedRvs.map((record) => record.value))]; // select unique Rvs
 
+    //console.log(JSON.stringify(GeneList));
+
     uniqueRvs.forEach((rv) => {
-        console.log(rv);
-      if (success) return;
-      if (GeneList.includes(rv)) {
-        console.log("Found on GeneList")
+      //console.log(rv);
+      //if (success) return;
+      if (GeneList.includes(rv.toLowerCase())) {
         success = true;
         orfPdbID.push({
           ORF: rv,
@@ -90,7 +92,7 @@ let generateORFPDBID = () => {
           Authors: record.data.rcsb_primary_citation.rcsb_authors,
           Title: record.data.rcsb_primary_citation.title,
         });
-      } else if (RvList.includes(rv)) {
+      } else if (RvList.includes(rv.toLowerCase())) {
         success = true;
         orfPdbID.push({
           ORF: rv,
@@ -106,7 +108,7 @@ let generateORFPDBID = () => {
     }
   });
   //Test
-  //console.log(JSON.stringify(failedRecords, null, 2));
+  console.log(JSON.stringify(failedRecords, null, 2));
 
   return orfPdbID;
 };
@@ -176,6 +178,7 @@ let begin = async () => {
   let RvTable = [];
 
   Object.entries(groupByORF).forEach(([orf, values]) => {
+    orf = orf.toLowerCase();
     let subTable = values.map((ele) => {
       return {
         ImageURL: generateStructURL(ele.PDBId),
