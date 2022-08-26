@@ -71,7 +71,7 @@ let generateStructURL = (pdbid) => {
 /* Generate ORF and PDB Id array */
 let generateORFPDBID = () => {
   let orfPdbID = [];
-  let rawData = fs.readFileSync("./Data/all.json");
+  let rawData = fs.readFileSync("./Data/allRvs.json");
   let pdbRecords = JSON.parse(rawData);
 
   pdbRecords.forEach((record) => {
@@ -83,7 +83,7 @@ let generateORFPDBID = () => {
 
     uniqueRvs.forEach((rv) => {
       //console.log(rv);
-      //if (success) return;
+      // if (success) return;
       if (GeneList.includes(rv.toLowerCase())) {
         success = true;
         orfPdbID.push({
@@ -170,7 +170,8 @@ let begin = async () => {
   await readGeneCSV();
   let orfPdbList = generateORFPDBID();
   console.log(orfPdbList.length);
-  const groupByORF = _.groupBy(orfPdbList, (item) => {
+  let orfSorted = orfPdbList.sort(e => e.ORF)
+  const groupByORF = _.groupBy(orfSorted, (item) => {
     return item.ORF;
   });
   //console.log(groupByORF);
@@ -201,6 +202,10 @@ let begin = async () => {
   fs.writeFileSync("./RvList.html", htm, (err) => {
     console.log(err);
   });
+
+  // fs.writeFileSync("./RvList.json", JSON.stringify(RvTable, null, 2), (err) => {
+  //   console.log(err);
+  // });
 };
 
 begin();
