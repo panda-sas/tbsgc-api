@@ -303,9 +303,15 @@ let begin = async () => {
 
 
 
-  let htm = generateHTMLv2(nfTableFiltered);
+  let htm = generateHTML(RvTable);
+  let htmv2 = generateHTMLv2(nfTableFiltered);
 
-  fs.writeFileSync("./RvList.html", htm, (err) => {
+  fs.writeFileSync("./RvListAll.html", htm, (err) => {
+    console.log(err);
+  });
+
+
+  fs.writeFileSync("./RvList.html", htmv2, (err) => {
     console.log(err);
   });
 
