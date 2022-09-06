@@ -147,6 +147,50 @@ td, th {
   return final;
 };
 
+
+let generateHTMLv2 = (elements) => {
+  let tables = "";
+
+  elements.forEach((element) => {
+    tables = tables + outerTableHtmlv2(element);
+  });
+
+  let style = `
+  <html>
+  <head>
+    <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #cccccc;
+  text-align: left;
+  padding: 8px;
+}
+
+</style>
+</head>
+<body>
+<table>
+<tr>
+<th>ORF ID</th>
+<th>Gene name</th>
+<th width="300">Function</th>
+<th>Title</th>
+<th>Structure</th>
+<th width="300">PDB ID</th>
+<th>Author</th>
+</tr>`;
+
+  let final = style + tables + "</table></body></html>";
+  return final;
+};
+
+
+
 let outerTableHtml = (e) => {
   let st = "";
   e.SubTable.forEach((ie) => {
@@ -155,6 +199,21 @@ let outerTableHtml = (e) => {
 
   return `<tr><td>${e.ORF}</td><td>${e.GeneName}</td><td width="300">${e.Function}</td><td>${st}</td></tr>`;
 };
+
+
+let outerTableHtmlv2 = (e) => {
+  return `<tr>
+    <td>${e.ORF}</td>
+    <td>${e.GeneName}</td>
+    <td width="300">${e.Function}</td>
+    <td>${e.Title}</td>
+    <td><img src=${e.ImageURL} width=200/></td>
+    <td width="300">${e.PDBIds}</td>
+    <td>${e.Authors}</td>
+    
+    </tr>`;
+};
+
 
 let innerTableHtml = (e) => {
   let authors = "<ul>";
@@ -197,9 +256,62 @@ let begin = async () => {
     });
   });
 
-  let htm = generateHTML(RvTable);
 
-  fs.writeFileSync("./RvList.html", htm, (err) => {
+  // filter authors
+  let filterAuthors = (authors) => {
+    let found = false;
+
+    let allowed = ["Sacchettini", "Goulding", "Stroud", "Zhang", "Terwilliger", "Eisenberg", "Alber", "Sassetti", "Rubin", "Baker", "Lott", "Rupp"]
+    authors.forEach(a => {
+      allowed.forEach(aauthor => {
+        if (a.toUpperCase().includes(aauthor.toUpperCase())) found = true;
+      })
+    })
+    return found;
+  }
+
+
+  // ====== new format
+  let nfTable = [];
+  RvTable.forEach((ele) => {
+    let rw = {}
+    rw["ORF"] = ele.ORF;
+    rw["GeneName"] = ele.GeneName;
+    rw["Function"] = ele.Function;
+    rw["ImageURL"] = ele.SubTable[0]["ImageURL"];
+    rw["PDBIds"] = [...ele.SubTable.map(e => `<a href="https://www.rcsb.org/structure/${e.PDBId}">${e.PDBId}</a>`)].join(', ');
+    rw["Authors"] = ele.SubTable[0].Authors.join(',');
+    rw["Title"] = ele.SubTable[0].Title
+
+    if (filterAuthors(ele.SubTable[0].Authors))
+      nfTable.push(rw)
+  });
+
+  //console.log(JSON.stringify(nfTable, null, 2));
+
+  let nfTableFiltered = nfTable.filter((value, index, self) =>
+    index === self.findIndex((t) => (
+      t.ORF === value.ORF
+    ))
+  );
+
+  nfTableFiltered = nfTableFiltered.sort((a,b) => (a["ORF"] > b["ORF"]) ? 1 : ((b["ORF"] > a["ORF"]) ? -1 : 0))
+
+
+
+
+
+
+
+  let htm = generateHTML(RvTable);
+  let htmv2 = generateHTMLv2(nfTableFiltered);
+
+  fs.writeFileSync("./RvListAll.html", htm, (err) => {
+    console.log(err);
+  });
+
+
+  fs.writeFileSync("./RvList.html", htmv2, (err) => {
     console.log(err);
   });
 
